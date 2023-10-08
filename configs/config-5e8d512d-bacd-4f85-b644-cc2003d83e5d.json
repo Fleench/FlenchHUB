@@ -1,0 +1,43 @@
+{
+  "version": "2.0",
+  "id": "5e8d512d-bacd-4f85-b644-cc2003d83e5d",
+  "title": "Defualt for now",
+  "featured": [],
+  "categories": [
+    {
+      "title": "Flench Cloud Services",
+      "links": [
+        {
+          "name": "Flench Cloud",
+          "link": "drive.flench.me"
+        },
+        {
+          "name": "Skiff Mail",
+          "link": "app.skiff.com"
+        },
+        {
+          "name": "Dashlane",
+          "link": "Dashlane.com"
+        },
+        {
+          "name": "Linode",
+          "link": "cloud.linode.com"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "search": [
+      {
+        "type": "bing",
+        "url": "https://www.bing.com/search?q=",
+        "name": "Bing"
+      },
+      {
+        "type": "duckduckgo",
+        "url": "https://duckduckgo.com/?q=",
+        "name": "Duck Duck Go"
+      }
+    ]
+  }
+}
