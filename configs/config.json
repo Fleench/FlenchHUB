@@ -1,7 +1,7 @@
 {
   "url": "./configs/config.json",
   "version": "2.0",
-  "id": "9e64a246-41a3-48c9-baa3-0d7b17a1ba85",
+  "id": "98f5303e-96bf-428b-9fd5-dd6170bed304",
   "title": "Defualt",
   "featured": [],
   "categories": [
@@ -44,8 +44,22 @@
       ]
     },
     {
-      "title": "Socials",
-      "links": []
+      "title": "Projects",
+      "links": [
+        {
+          "name": "Github",
+          "link": "https://GitHub.com/fleench"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "links": [
+        {
+          "name": "Metros Download for Computer Craft",
+          "link": "https://cc.metros-install.flench.me"
+        }
+      ]
     }
   ],
   "metadata": {
