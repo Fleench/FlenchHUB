@@ -1,6 +1,7 @@
 {
+  "url": "./configs/config.json",
   "version": "2.0",
-  "id": "5e8d512d-bacd-4f85-b644-cc2003d83e5d",
+  "id": "9e64a246-41a3-48c9-baa3-0d7b17a1ba85",
   "title": "Defualt",
   "featured": [],
   "categories": [
@@ -24,6 +25,27 @@
           "link": "cloud.linode.com"
         }
       ]
+    },
+    {
+      "title": "Flehnch04's Media",
+      "links": [
+        {
+          "name": "Hub",
+          "link": "flench.me"
+        },
+        {
+          "name": "Games",
+          "link": "games.flench.me"
+        },
+        {
+          "name": "Tv",
+          "link": "tv.flench.me"
+        }
+      ]
+    },
+    {
+      "title": "Socials",
+      "links": []
     }
   ],
   "metadata": {
